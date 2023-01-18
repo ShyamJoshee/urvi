@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.para {
+  font-weight: 900;
+}
+.container {
+  background-color: rgb(24, 42, 59);
+  border: 11px;
+  padding: 50px;
+  font-family: sans-serif;
+  border: 2px solid black;
+  /* margin:  0 ; */
+  padding: 50px 180px;
+}
+
+.community {
+  background-color: rgb(255, 253, 253);
+  text-align: center;
+  margin-top: 4%;
+  padding: 20px 50px;
+  font-weight: lighter;
+}
+
+.card {
+  background-color: rgb(15, 67, 66);
+  width: 50%;
+  text-align: center;
+  padding: 50px;
+}
+
+.why_us {
+  background-color: rgba(85, 145, 142, 0.698);
+  width: 50%;
+  text-align: center;
+  font-style: inherit;
+  padding: 50px;
+}
+
+span {
+  font-size: 30px;
+}
+
+.btn {
+  background-color: rgb(102, 153, 0);
+  border: none;
+  padding: 15px 70px;
+  border-radius: 10px;
+}
+
+.popat {
+  display: flex;
+}
