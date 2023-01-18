@@ -38,13 +38,16 @@ const App = () => {
             </button>
           </div>
 
-          <div className="why_us">
-            <h3 style={{ color: "antiquewhite" }}> Why us</h3>
-            <p style={{ color: "antiquewhite" }}>
-              Tutorials by industry experts Peer & expert code review Coding
-              excercises Access to out Github repos Community forum Flashcard
-              decks
-            </p>
+          <div className="why-us">
+            <h4 class="why-us-header">Why Us</h4>
+            <ul className="why-us-items">
+              <li>Tutorials by industry experts</li>
+              <li>Peer & expert code review</li>
+              <li>Coding exercises</li>
+              <li>Access yo our GitHub repos</li>
+              <li>Community forum</li>
+              <li>Flashcard decks</li>
+            </ul>
           </div>
         </div>
       </div>

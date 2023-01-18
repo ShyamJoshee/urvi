@@ -8,7 +8,7 @@
 }
 .container {
   background-color: rgb(24, 42, 59);
-  border: 11px;
+  border-radius: 11px;
   padding: 50px;
   font-family: sans-serif;
   border: 2px solid black;
@@ -31,12 +31,13 @@
   padding: 50px;
 }
 
-.why_us {
+.why-us {
   background-color: rgba(85, 145, 142, 0.698);
   width: 50%;
   text-align: center;
   font-style: inherit;
   padding: 50px;
+  color: white;
 }
 
 span {
@@ -52,4 +53,9 @@ span {
 
 .popat {
   display: flex;
+}
+.why-us-items {
+  list-style: none;
+  text-align: center;
+  padding: 10px;
 }
